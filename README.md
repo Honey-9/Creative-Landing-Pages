@@ -30,4 +30,27 @@ Your submission should include:
 2. One Supporting CSS File
 3. The Landing Page: `index.html`
 
+In case if you are planning to make multiple submissions, please create a subfolder inside your Username directory. These both cases might give you an idea:
 
+**Only One Submission**
+
+```text
+Github-profile/
+├── index.html
+├── script.js
+└── styles.css
+```
+
+**Multiple Submissions**
+
+```text
+Github-profile/
+├── first/
+│   ├── index.html
+│   ├── script.js
+│   └── styles.css
+└── second/
+    ├── index.html
+    ├── script.js
+    └── styles.css
+```
